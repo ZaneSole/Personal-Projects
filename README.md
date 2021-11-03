@@ -1,5 +1,5 @@
-# Summer Break Personal Projects
-Summer break small projects
+# Summer Break Projects
+Summer break projects
 
 To view project:
 
