@@ -1,4 +1,4 @@
-# Personal-Projects
+# Summer Break Personal Projects
 Summer break small projects
 
 To view project:
